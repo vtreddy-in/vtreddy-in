@@ -40,11 +40,9 @@ Saveetha School of Engineering
 
 | Category | Skills |
 |--------|--------|
-| 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js,html,css,sql" height="45"/> |
+| 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,cpp,r,html,css,sql" height="45"/> |
 | 🧠 AI / Data | <img src="https://skillicons.dev/icons?i=python" height="45"/> |
 | 🛠 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/> |
-| 📊 Visualization | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> |
-
 </div>
 
 ---
