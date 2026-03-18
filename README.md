@@ -42,7 +42,7 @@ Saveetha School of Engineering
 |--------|--------|
 | 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,cpp,r,html,css,sql" height="45"/> |
 | 🧠 AI / Data | <img src="https://skillicons.dev/icons?i=python" height="45"/> |
-| 🛠 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/> |
+| 🛠 Tools | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,figma" height="45"/> |
 </div>
 
 ---
